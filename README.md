@@ -50,7 +50,9 @@ This simple two key-value JSON object forms the entire backbone of the CodeVideo
 }
 ```
 
-That's it! See the `IAction` interface from the [CodeVideo types repository](https://github.com/codevideo/codevideo-types) for more information.
+That's it! 
+
+See the `IAction` interface from the [CodeVideo types repository](https://github.com/codevideo/codevideo-types) for more information.
 
 ## 📊 Performance Metrics
 
@@ -65,11 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) guide for details.
-
----
-
-<p align="center">
-  <a href="https://studio.codevideo.io">Try CodeVideo Studio</a> •
-  <a href="https://docs.codevideo.io">Documentation</a> •
-  <a href="https://github.com/codevideo/codevideo/discussions">Discussions</a>
-</p>
