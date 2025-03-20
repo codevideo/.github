@@ -31,9 +31,9 @@ The following is a listing of packages used around the CodeVideo ecosystem, more
 
 ### Websites
 
-- [`@fullstackcraftllc/codevideo.io`](https://github.com/codevideo/codevideo.io) - the CodeVideo homepage
-- [`@fullstackcraftllc/studio.codevideo.io`](https://github.com/codevideo/studio.codevideo.io) - the CodeVideo Studio
-- [`@fullstackcraftllc/docs.codevideo.io`](https://github.com/codevideo/docs.codevideo.io) - the CodeVideo documentation site
+- [`@fullstackcraftllc/codevideo.io`](https://github.com/codevideo/codevideo.io) [![Netlify Status](https://api.netlify.com/api/v1/badges/a16a5d48-da4e-402e-a3a0-674264823aa0/deploy-status)](https://app.netlify.com/sites/codevideo/deploys) - the CodeVideo homepage
+- [`@fullstackcraftllc/studio.codevideo.io`](https://github.com/codevideo/studio.codevideo.io) [![Netlify Status](https://api.netlify.com/api/v1/badges/1ac1a3f0-f67b-4ac9-97d3-7a548dfe209d/deploy-status)](https://app.netlify.com/sites/codevideostudio/deploys) - the CodeVideo Studio
+- [`@fullstackcraftllc/docs.codevideo.io`](https://github.com/codevideo/docs.codevideo.io) [![Netlify Status](https://api.netlify.com/api/v1/badges/48e0ddeb-3912-42a2-8275-37cf09d79383/deploy-status)](https://app.netlify.com/sites/docscodevideo/deploys) - the CodeVideo documentation site
 
 ### API
 
