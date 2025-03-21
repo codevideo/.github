@@ -12,6 +12,10 @@ The following is a listing of packages used around the CodeVideo ecosystem, more
 
 [`@fullstackcraftllc/codevideo-types`](https://github.com/codevideo/codevideo-types) - the TypeScript types used around the CodeVideo ecosystem. Used by almost all packages listed further below.
 
+### CLI
+
+[`@fullstackcraftllc/codevideo-cli`](https://github.com/codevideo/codevideo-cli) - the go-based CLI for generating videos from JSON directly on the command line
+
 ### "Virtual" Layer
 
 [`@fullstackcraftllc/codevideo-virtual-ide`](https://github.com/codevideo/codevideo-virtual-ide) - the virtual IDE used for state traversal and reconstitution, comprised of:
