@@ -10,13 +10,11 @@ Welcome to the CodeVideo framework and ecosystem!
 
 The following is a listing of packages used around the CodeVideo ecosystem, more or less according to how often they are used:
 
+### Core Layer
+
 [`@fullstackcraftllc/codevideo-types`](https://github.com/codevideo/codevideo-types) - the TypeScript types used around the CodeVideo ecosystem. Used by almost all packages listed further below.
 
-### CLI
-
-[`@fullstackcraftllc/codevideo-cli`](https://github.com/codevideo/codevideo-cli) - the go-based CLI for generating videos from JSON directly on the command line
-
-### "Virtual" Layer
+### Virtual Layer (sits on top of core layer)
 
 [`@fullstackcraftllc/codevideo-virtual-ide`](https://github.com/codevideo/codevideo-virtual-ide) - the virtual IDE used for state traversal and reconstitution, comprised of:
   - [`@fullstackcraftllc/codevideo-virtual-file-explorer`](https://github.com/codevideo/codevideo-virtual-file-explorer) - represents the sidebar file explorer in an IDE
@@ -24,9 +22,13 @@ The following is a listing of packages used around the CodeVideo ecosystem, more
   - [`@fullstackcraftllc/codevideo-virtual-terminal`](https://github.com/codevideo/codevideo-virtual-terminal) - represents a terminal editor in an IDE
   - [`@fullstackcraftllc/codevideo-virtual-author`](https://github.com/codevideo/codevideo-virtual-author) - represents an author that can speak about what is happening in the IDE
 
-### "Render" Layer
+### GUI Layer (sits on top of virtual layer)
 
 - [`@fullstackcraftllc/codevideo-ide-react`](https://github.com/codevideo/codevideo-ide-react) - Currently our only renderer, an advanced React component. This is the component currently used to make the videos. We have plans to build fully SVG and Canvas based editors in the future.
+
+### CLI
+
+[`@fullstackcraftllc/codevideo-cli`](https://github.com/codevideo/codevideo-cli) - the go-based CLI for generating videos from JSON directly on the command line
 
 ### Exporters
 
