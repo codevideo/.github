@@ -6,21 +6,30 @@
 
 CodeVideo is an event-sourced IDE state manager that enables software educators and content creators to create professional educational content at unprecedented speed.
 
-The framework is broken down into small parts, each with their own responsibility:
+The framework is broken down into small parts, each with their own single responsibility:
 
 App Layer:
+
 `codevideo-types` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-types)](https://github.com/codevideo/codevideo-types/stargazers)
+
 `codevideo-frontend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-frontend)](https://github.com/codevideo/codevideo-frontend/stargazers)
+
 `codevideo-backend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-backend)](https://github.com/codevideo/codevideo-backend/stargazers)
+
 `codevideo-api` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-api)](https://github.com/codevideo/codevideo-api/stargazers)
 
 Virtual Layer:
+
 `codevideo-virtual-ide` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-ide)](https://github.com/codevideo/codevideo-virtual-ide/stargazers)
+
 `codevideo-virtual-file-explorer` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-file-explorer)](https://github.com/codevideo/codevideo-virtual-file-explorer/stargazers)
+
 `codevideo-virtual-editor` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-editor)](https://github.com/codevideo/codevideo-virtual-editor/stargazers)
+
 `codevideo-virtual-terminal` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-terminal)](https://github.com/codevideo/codevideo-virtual-terminal/stargazers)
 
 Generators:
+
 `codevideo-doc-gen` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-ide)](https://github.com/codevideo/codevideo-doc-gen/stargazers)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
