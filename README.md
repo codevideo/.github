@@ -8,17 +8,11 @@ CodeVideo is an event-sourced IDE state manager that enables software educators 
 
 The framework is broken down into small parts, each with their own single responsibility:
 
-App Layer:
+Core Layer:
 
 `codevideo-types` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-types)](https://github.com/codevideo/codevideo-types/stargazers)
 
-`codevideo-frontend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-frontend)](https://github.com/codevideo/codevideo-frontend/stargazers)
-
-`codevideo-backend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-backend)](https://github.com/codevideo/codevideo-backend/stargazers)
-
-`codevideo-api` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-api)](https://github.com/codevideo/codevideo-api/stargazers)
-
-Virtual Layer:
+Virtual Layer (Sits on top of the core layer):
 
 `codevideo-virtual-ide` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-ide)](https://github.com/codevideo/codevideo-virtual-ide/stargazers)
 
@@ -27,6 +21,20 @@ Virtual Layer:
 `codevideo-virtual-editor` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-editor)](https://github.com/codevideo/codevideo-virtual-editor/stargazers)
 
 `codevideo-virtual-terminal` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-terminal)](https://github.com/codevideo/codevideo-virtual-terminal/stargazers)
+
+`codevideo-virtual-mouse` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-virtual-mouse)](https://github.com/codevideo/codevideo-virtual-mouse/stargazers)
+
+GUI Layer (Sits on top of the virtual layer):
+
+`codevideo-ide-react` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-ide-react)](https://github.com/codevideo/codevideo-ide-react/stargazers)
+
+SaaS App Layer:
+
+`codevideo-frontend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-frontend)](https://github.com/codevideo/codevideo-frontend/stargazers)
+
+`codevideo-backend` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-backend)](https://github.com/codevideo/codevideo-backend/stargazers)
+
+`codevideo-api` [![GitHub stars](https://img.shields.io/github/stars/codevideo/codevideo-api)](https://github.com/codevideo/codevideo-api/stargazers)
 
 Generators:
 
