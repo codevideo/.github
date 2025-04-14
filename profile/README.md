@@ -21,6 +21,7 @@ The following is a listing of packages used around the CodeVideo ecosystem, more
   - [`@fullstackcraftllc/codevideo-virtual-editor`](https://github.com/codevideo/codevideo-virtual-editor) - represents a single editor in an IDE
   - [`@fullstackcraftllc/codevideo-virtual-terminal`](https://github.com/codevideo/codevideo-virtual-terminal) - represents a terminal editor in an IDE
   - [`@fullstackcraftllc/codevideo-virtual-author`](https://github.com/codevideo/codevideo-virtual-author) - represents an author that can speak about what is happening in the IDE
+  - [`@fullstackcraftllc/codevideo-virtual-mouse`](https://github.com/codevideo/codevideo-virtual-mouse) - represents a mouse that can move to specific locations in the IDE, as well as left and right click
 
 ### GUI Layer (sits on top of virtual layer)
 
