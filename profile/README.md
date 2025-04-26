@@ -1,6 +1,12 @@
 # CodeVideo: Create Software Educational Content in Minutes, Not Hours
 
-![status badge](https://img.shields.io/badge/status-legendary-57D6BB?labelColor=gray)
+![status badge](https://img.shields.io/badge/status-legendary-154B47?labelColor=gray)
+
+![status badge](https://img.shields.io/badge/code%20quality-sometimes%20excellent-154B47?labelColor=gray)
+
+![status badge](https://img.shields.io/badge/test%20coverage-decent-154B47?labelColor=gray)
+
+![status badge](https://img.shields.io/badge/capabilities-infinite-154B47?labelColor=gray)
 
 Create professional, clear, and correct step-by-step software courses, lessons, and tutorials in *minutes*, not days.
 
