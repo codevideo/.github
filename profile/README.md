@@ -31,11 +31,15 @@ The following is a listing of packages used around the CodeVideo ecosystem, more
 
 ### GUI Layer (sits on top of virtual layer)
 
-- [`@fullstackcraftllc/codevideo-ide-react`](https://github.com/codevideo/codevideo-ide-react) - Currently our only renderer, an advanced React component. This is the component currently used to make the videos. We have plans to build fully SVG and Canvas based editors in the future.
+- [`@fullstackcraftllc/codevideo-ide-react`](https://github.com/codevideo/codevideo-ide-react) - Currently our only renderer, an advanced React component. This is the component currently used to make the videos. We have plans to build fully SVG and Canvas-based editors in the future.
 
 ### CLI
 
-[`@fullstackcraftllc/codevideo-cli`](https://github.com/codevideo/codevideo-cli) - the go-based CLI for generating videos from JSON directly on the command line
+[`@fullstackcraftllc/codevideo-cli`](https://github.com/codevideo/codevideo-cli) - the go-based CLI for generating videos from JSON directly on the command line.
+
+### MCP Server
+
+[`@fullstackcraftllc/codevideo-mcp`](https://github.com/codevideo/codevideo-mcp) - the TypeScript + Node based MCP Server for build software content with natural language.
 
 ### Exporters
 
